@@ -1,5 +1,8 @@
 # MagnetRush · 磁能狂飙：金币猎手
 
+![banner](banner.svg)
+
+
 > 纯前端 · 单文件 · Canvas 2D 街机竞速游戏
 
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
